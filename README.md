@@ -1,4 +1,4 @@
-![alt text](https://github.com/Asthajhawar/FoodDemandForecasting/blob/main/food_1920x480_9XIpdm8-thumbnail-1200x1200-90.jpg)
+![alt text](https://github.com/Asthajhawar/FoodDemandForecasting/blob/main/images/food_1920x480_9XIpdm8-thumbnail-1200x1200-90.jpg)
 
 # Food Demand Forecasting
 
