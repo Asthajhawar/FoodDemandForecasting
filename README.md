@@ -1,5 +1,4 @@
-<!-- ![alt text](https://github.com/SaiPrasath-S/DemandPrediction/blob/master/images/food_1920x480_9XIpdm8-thumbnail-1200x1200-90.jpg) -->
-![food demand forecasting](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatahack.analyticsvidhya.com%2Fcontest%2Fgenpact-machine-learning-hackathon-1%2F&psig=AOvVaw3AMMJB_dV2RTfjS1U_5GjT&ust=1653123313207000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjf-cPa7fcCFQAAAAAdAAAAABAE)
+![alt text](https://github.com/Asthajhawar/FoodDemandForecasting/blob/main/food_1920x480_9XIpdm8-thumbnail-1200x1200-90.jpg)
 
 # Food Demand Forecasting
 
